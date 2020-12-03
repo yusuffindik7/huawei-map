@@ -1,0 +1,12 @@
+{
+	"client":{
+		"cp_id":"5190090000027890762",
+		"product_id":"736430079244691855",
+		"client_id":"489186287484404864",
+		"client_secret":"809B416C569B50EA708C7EA57C75479B0B87430F5F0F6F546AED948DC70A251C",
+		"app_id":"103216529",
+		"package_name":"com.huawei.hmap",
+		"api_key":"CgB6e3x9Xx6ndu0vEQqh6zaf1mkJNDrHEMo8hIpDbV9/lhRYcZBUpJ/57dbYxJTcH/X6now6a+UvpCJj1Ylyb1WM"
+	},
+	"configuration_version":"1.0"
+}
